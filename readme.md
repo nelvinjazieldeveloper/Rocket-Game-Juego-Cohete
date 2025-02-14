@@ -29,6 +29,9 @@ pip install -r requirements.txt
 2. Install the necessary dependencies by running the command `pip install -r requirements.txt`.
 3. Run the game using the command `python main.py`.
 
+```bash
+python main.py
+```
 
 ## Instalación
 
@@ -36,6 +39,9 @@ pip install -r requirements.txt
 2. Instala las dependencias necesarias ejecutando el comando `pip install -r requirements.txt`.
 3. Ejecuta el juego utilizando el comando `python main.py`.
 
+```bash
+python main.py
+```
 
 ## Usage
 
