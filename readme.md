@@ -22,41 +22,37 @@ Para ejecutar este proyecto, necesitarás tener instaladas las siguientes biblio
 pip install -r requirements.txt
 ```
 
+
 ## Installation
-
-1. Clona el repositorio del proyecto.
-2. Instala las dependencias necesarias ejecutando el comando `pip install -r requirements.txt`.
-3. Ejecuta el juego utilizando el comando `python main.py`.
-
-## Instalación
 
 1. Clone the project repository.
 2. Install the necessary dependencies by running the command `pip install -r requirements.txt`.
 3. Run the game using the command `python main.py`.
 
+
+## Instalación
+
+1. Clona el repositorio del proyecto.
+2. Instala las dependencias necesarias ejecutando el comando `pip install -r requirements.txt`.
+3. Ejecuta el juego utilizando el comando `python main.py`.
+
+
 ## Usage
-
-1. Conecta tu cámara web.
-2. Ejecuta el juego.
-3. Mueve tu cabeza para controlar la dirección del cohete.
-4. Evita los misiles enemigos que caen desde la parte superior de la pantalla.
-
-## Uso
 
 1. Connect your webcam.
 2. Run the game.
 3. Move your head to control the direction of the rocket.
 4. Avoid enemy missiles falling from the top of the screen.
 
+## Uso
+
+1. Conecta tu cámara web.
+2. Ejecuta el juego.
+3. Mueve tu cabeza para controlar la dirección del cohete.
+4. Evita los misiles enemigos que caen desde la parte superior de la pantalla.
+
 ## Contribution
 
-Si deseas contribuir al proyecto, puedes hacerlo de varias maneras:
-
-1. Reporta errores o bugs en el juego.
-2. Sugerir nuevas características o mejoras.
-3. Colabora en el desarrollo del juego enviando pull requests.
-
-## Contribución
 
 If you want to contribute to the project, you can do so in several ways:
 
@@ -64,10 +60,20 @@ If you want to contribute to the project, you can do so in several ways:
 2. Suggest new features or improvements.
 3. Collaborate on the development of the game by sending pull requests.
 
+
+## Contribución
+
+Si deseas contribuir al proyecto, puedes hacerlo de varias maneras:
+
+1. Reporta errores o bugs en el juego.
+2. Sugerir nuevas características o mejoras.
+3. Colabora en el desarrollo del juego enviando pull requests.
+
 ## License
 
-Este proyecto está bajo la licencia MIT. Puedes encontrar más información en el archivo `LICENSE`.
+This project is under the MIT license. You can find more information in the `LICENSE` 
+
 
 ## Licencia
 
-This project is under the MIT license. You can find more information in the `LICENSE` file.# Rocket-Game-Juego-Cohete
+Este proyecto está bajo la licencia MIT. Puedes encontrar más información en el archivo `LICENSE`.
